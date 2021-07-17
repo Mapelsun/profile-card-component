@@ -28,9 +28,8 @@ Profile card component challenge
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
-
+- Solution URL: [GitHub](https://github.com/Mapelsun/profile-card-component)
+- Live Site URL: [GitHub Pages](https://mapelsun.github.io/profile-card-component/)
 
 ### Built with
 
